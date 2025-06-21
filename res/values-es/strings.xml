@@ -1350,16 +1350,16 @@ Comandos:
 !reset (Reiniciar la sala)
 !welcome {Mensaje de bienvenida}
 !difficulty [0-3] o [1-4] para Campaña
-!hidden
+!hidden 
 !slowchat (Ralentizar chat)
-!pausechat
+!pausechat (Pausar chat)
 !mute {id}
 !admin {id}
 !allow {id} (Permitir un jugador en la sala)
 !allow reset (Reiniciar permisos de jugadores en la sala)
 !team [1-4] {id} (Apenas en modos con equipos)
 !winner (Ganador de una partida con tiempo o por equipos)
-!stats
+!stats 
 !info"
 </string>
     <string name="ID_Sort">Ordenar ID</string>
